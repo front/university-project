@@ -18,7 +18,7 @@ for your setup.
 After that you can create the project:
 
 ```
-composer create-project front/university-project university
+composer create-project --stability dev front/university-project university
 ```
 
 With `composer require ...` you can download new dependencies to your
