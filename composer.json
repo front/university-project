@@ -10,7 +10,7 @@
         },
         {
             "name": "Paweł Pregiel",
-            "email": "pawel@pregiel.eu"
+            "email": "pawel@front.no"
         }
     ],
     "repositories": [
@@ -39,8 +39,8 @@
         }
     ],
     "require": {
-        "burdamagazinorg/thunder": "~8.2",
-        "front/university": "dev-master as 1.0.0-alpha",
+        "burdamagazinorg/thunder": "8.2.14",
+        "front/university": "dev-8.x-1.x",
         "composer/installers": "^1.2",
         "oomphinc/composer-installers-extender": "^1.1",
         "drupal-composer/drupal-scaffold": "^2.2",
