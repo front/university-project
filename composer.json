@@ -39,13 +39,13 @@
         }
     ],
     "require": {
-        "burdamagazinorg/thunder": "8.2.14",
+        "burdamagazinorg/thunder": "8.2.18",
         "front/university": "dev-8.x-1.x",
         "composer/installers": "^1.2",
         "oomphinc/composer-installers-extender": "^1.1",
         "drupal-composer/drupal-scaffold": "^2.2",
         "cweagans/composer-patches": "^1.6",
-        "drush/drush": "^8.1.10",
+        "drush/drush": "^8.1",
         "drupal/console": "~1.0",
         "drupal/linkit": "5.0.0-beta6 as 4.0",
         "webflo/drupal-finder": "^1.0.0",
@@ -88,7 +88,7 @@
         "enable-patching": true,
         "patches": {
             "drupal/core": {
-                "Allow profiles to provide a base/parent profile and load them in the correct order": "https://www.drupal.org/files/issues/1356276-419--8.4.4.patch"
+                "Allow profiles to provide a base/parent profile and load them in the correct order": "https://www.drupal.org/files/issues/1356278-408--8.5.x-real.patch"
             }
         }
     },
