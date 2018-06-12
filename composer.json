@@ -39,7 +39,7 @@
         }
     ],
     "require": {
-        "burdamagazinorg/thunder": "8.2.18",
+        "burdamagazinorg/thunder": "8.2.19",
         "front/university": "dev-8.x-1.x",
         "composer/installers": "^1.2",
         "oomphinc/composer-installers-extender": "^1.1",
