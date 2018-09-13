@@ -39,8 +39,9 @@
         }
     ],
     "require": {
-        "burdamagazinorg/thunder": "8.2.19",
         "front/university": "dev-8.x-1.x",
+        "drupal/core": "8.5.7",
+        "burdamagazinorg/thunder": "8.2.19",
         "composer/installers": "^1.2",
         "oomphinc/composer-installers-extender": "^1.1",
         "drupal-composer/drupal-scaffold": "^2.2",
