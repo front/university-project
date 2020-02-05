@@ -40,7 +40,7 @@
     ],
     "require": {
         "front/university": "dev-8.x-1.x",
-        "drupal/core": "8.5.7",
+        "drupal/core": "8.7.11",
         "burdamagazinorg/thunder": "8.2.19",
         "composer/installers": "^1.2",
         "oomphinc/composer-installers-extender": "^1.1",
@@ -89,7 +89,7 @@
         "enable-patching": true,
         "patches": {
             "drupal/core": {
-                "Allow profiles to provide a base/parent profile and load them in the correct order": "https://www.drupal.org/files/issues/1356278-408--8.5.x-real.patch"
+                "Allow profiles to provide a base/parent profile and load them in the correct order": "https://www.drupal.org/files/issues/2019-07-25/drupal-n1356276-588-87x.patch"
             }
         }
     },
@@ -97,4 +97,3 @@
         "bin-dir": "bin/"
     }
 }
-
